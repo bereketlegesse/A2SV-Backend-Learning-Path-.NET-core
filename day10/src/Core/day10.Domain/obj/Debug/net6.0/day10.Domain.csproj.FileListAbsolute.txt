@@ -1,0 +1,12 @@
+C:\Users\bereket legesse\Desktop\A2SV-Backend-Learning-Path-.NET-core\day10\src\Core\day10.Domain\bin\Debug\net6.0\day10.Domain.deps.json
+C:\Users\bereket legesse\Desktop\A2SV-Backend-Learning-Path-.NET-core\day10\src\Core\day10.Domain\bin\Debug\net6.0\day10.Domain.dll
+C:\Users\bereket legesse\Desktop\A2SV-Backend-Learning-Path-.NET-core\day10\src\Core\day10.Domain\bin\Debug\net6.0\day10.Domain.pdb
+C:\Users\bereket legesse\Desktop\A2SV-Backend-Learning-Path-.NET-core\day10\src\Core\day10.Domain\obj\Debug\net6.0\day10.Domain.csproj.AssemblyReference.cache
+C:\Users\bereket legesse\Desktop\A2SV-Backend-Learning-Path-.NET-core\day10\src\Core\day10.Domain\obj\Debug\net6.0\day10.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bereket legesse\Desktop\A2SV-Backend-Learning-Path-.NET-core\day10\src\Core\day10.Domain\obj\Debug\net6.0\day10.Domain.AssemblyInfoInputs.cache
+C:\Users\bereket legesse\Desktop\A2SV-Backend-Learning-Path-.NET-core\day10\src\Core\day10.Domain\obj\Debug\net6.0\day10.Domain.AssemblyInfo.cs
+C:\Users\bereket legesse\Desktop\A2SV-Backend-Learning-Path-.NET-core\day10\src\Core\day10.Domain\obj\Debug\net6.0\day10.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bereket legesse\Desktop\A2SV-Backend-Learning-Path-.NET-core\day10\src\Core\day10.Domain\obj\Debug\net6.0\day10.Domain.dll
+C:\Users\bereket legesse\Desktop\A2SV-Backend-Learning-Path-.NET-core\day10\src\Core\day10.Domain\obj\Debug\net6.0\refint\day10.Domain.dll
+C:\Users\bereket legesse\Desktop\A2SV-Backend-Learning-Path-.NET-core\day10\src\Core\day10.Domain\obj\Debug\net6.0\day10.Domain.pdb
+C:\Users\bereket legesse\Desktop\A2SV-Backend-Learning-Path-.NET-core\day10\src\Core\day10.Domain\obj\Debug\net6.0\ref\day10.Domain.dll
